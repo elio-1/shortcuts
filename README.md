@@ -11,7 +11,6 @@ clone https://github.com/elio75006/shortcuts.git
 Install Launchy
 ```
 $ gem install launchy
-
 ```
 If you'r using Oh my Zsh
 ```
