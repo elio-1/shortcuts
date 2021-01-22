@@ -3,7 +3,9 @@ Some short cuts for your terminal!
 Alt tabbing is too much for you ?
 Save you some seconds and install this simple file !
 You'll be able to search ANYTHING you want while staying inside your cauzy terminal
+
 ----------
+
 ## Installation 
 Clone using this command or fork the project
 ```
